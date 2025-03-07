@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xionchan
 - 👀 I’m interested in database
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning database
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
